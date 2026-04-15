@@ -1,0 +1,13 @@
+user,threat_scenario
+EMP-1052,data_exfiltration
+EMP-1049,data_exfiltration
+EMP-1026,data_exfiltration
+EMP-1077,credential_abuse
+EMP-1023,credential_abuse
+EMP-1030,espionage
+EMP-1032,espionage
+EMP-1018,espionage
+EMP-1098,sabotage
+EMP-1012,sabotage
+EMP-1033,flight_risk
+EMP-1094,flight_risk

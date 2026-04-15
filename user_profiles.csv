@@ -1,0 +1,101 @@
+user,employee_name,email,department,role,location,clearance,hire_date,ip,normal_login_hour,normal_logout_hour
+EMP-1001,Mark Edwards,mark.edwards@acmecorp.com,Engineering,QA Engineer,Office-London,confidential,2015-03-01,10.179.109.88,9,17
+EMP-1002,Margaret Ross,margaret.ross@acmecorp.com,Finance,Finance Manager,HQ-NewYork,confidential,2016-07-01,10.25.92.217,9,18
+EMP-1003,Jennifer Sanders,jennifer.sanders@acmecorp.com,Human Resources,Benefits Coordinator,Office-Berlin,restricted,2016-07-01,10.21.142.76,9,17
+EMP-1004,Alexander Rodriguez,alexander.rodriguez@acmecorp.com,Sales,Sales Rep,Remote,internal,2018-05-01,10.253.21.219,8,16
+EMP-1005,Timothy Scott,timothy.scott@acmecorp.com,Legal,Legal Manager,Remote,top-secret,2020-03-01,10.95.91.54,9,16
+EMP-1006,Nicole Brooks,nicole.brooks@acmecorp.com,IT Security,SOC Analyst,Office-Berlin,top-secret,2018-03-01,10.119.98.70,8,18
+EMP-1007,Dennis Jimenez,dennis.jimenez@acmecorp.com,Executive,CEO,Office-SanFrancisco,top-secret,2015-06-01,10.103.69.17,8,18
+EMP-1008,Margaret Wood,margaret.wood@acmecorp.com,Research & Development,Lab Technician,Office-Bangalore,classified,2022-03-01,10.68.36.64,9,19
+EMP-1009,Justin Phillips,justin.phillips@acmecorp.com,Marketing,Marketing Manager,Office-SanFrancisco,internal,2017-09-01,10.127.24.194,7,16
+EMP-1010,Karen Watson,karen.watson@acmecorp.com,Operations,Project Manager,Remote,internal,2021-10-01,10.17.99.98,10,18
+EMP-1011,Stephen Johnson,stephen.johnson@acmecorp.com,Engineering,Software Engineer,Remote,confidential,2023-05-01,10.197.165.88,7,18
+EMP-1012,Sharon Lee,sharon.lee@acmecorp.com,Finance,Controller,HQ-NewYork,confidential,2019-09-01,10.196.46.130,7,18
+EMP-1013,Samantha Cook,samantha.cook@acmecorp.com,Human Resources,HR Director,Office-SanFrancisco,restricted,2017-06-01,10.196.42.139,7,18
+EMP-1014,Gary Williams,gary.williams@acmecorp.com,Sales,Sales Rep,Office-London,internal,2019-04-01,10.15.62.225,7,16
+EMP-1015,Janet Morales,janet.morales@acmecorp.com,Legal,Legal Counsel,Office-Berlin,top-secret,2017-03-01,10.169.122.243,8,18
+EMP-1016,Shirley Cox,shirley.cox@acmecorp.com,IT Security,CISO,Office-SanFrancisco,top-secret,2023-12-01,10.177.52.183,9,19
+EMP-1017,Christine Wood,christine.wood@acmecorp.com,Executive,COO,Office-Bangalore,top-secret,2023-08-01,10.31.64.58,7,18
+EMP-1018,Robert Ramos,robert.ramos@acmecorp.com,Research & Development,R&D Manager,Office-SanFrancisco,classified,2018-01-01,10.19.182.162,7,17
+EMP-1019,David Jones,david.jones@acmecorp.com,Marketing,Marketing Manager,HQ-NewYork,internal,2023-04-01,10.72.172.125,8,17
+EMP-1020,Patrick Kelly,patrick.kelly@acmecorp.com,Operations,Logistics Coordinator,Office-Bangalore,internal,2018-08-01,10.207.105.49,7,16
+EMP-1021,Raymond Parker,raymond.parker@acmecorp.com,Engineering,Engineering Manager,Office-Bangalore,confidential,2021-08-01,10.222.187.14,7,16
+EMP-1022,Stephanie Sanders,stephanie.sanders@acmecorp.com,Finance,Finance Manager,HQ-NewYork,confidential,2018-04-01,10.49.138.115,8,19
+EMP-1023,Nancy Scott,nancy.scott@acmecorp.com,Human Resources,Benefits Coordinator,Office-SanFrancisco,restricted,2016-08-01,10.207.221.220,7,16
+EMP-1024,Katherine Cooper,katherine.cooper@acmecorp.com,Sales,Sales Rep,HQ-NewYork,internal,2018-03-01,10.105.125.124,8,19
+EMP-1025,Linda Perez,linda.perez@acmecorp.com,Legal,Legal Manager,HQ-NewYork,top-secret,2021-05-01,10.238.201.201,10,18
+EMP-1026,Jason Hughes,jason.hughes@acmecorp.com,IT Security,Incident Responder,Remote,top-secret,2022-03-01,10.49.76.56,7,16
+EMP-1027,Catherine Green,catherine.green@acmecorp.com,Executive,CEO,HQ-NewYork,top-secret,2022-09-01,10.236.219.136,8,16
+EMP-1028,Angela Hernandez,angela.hernandez@acmecorp.com,Research & Development,Data Scientist,HQ-NewYork,classified,2016-11-01,10.221.61.104,7,17
+EMP-1029,Justin Kim,justin.kim@acmecorp.com,Marketing,Marketing Analyst,Office-Berlin,internal,2016-07-01,10.169.150.145,9,18
+EMP-1030,Anthony Bennett,anthony.bennett@acmecorp.com,Operations,Operations Manager,Office-SanFrancisco,internal,2019-07-01,10.34.172.166,9,19
+EMP-1031,Kenneth Long,kenneth.long@acmecorp.com,Engineering,Software Engineer,HQ-NewYork,confidential,2022-10-01,10.145.26.19,8,18
+EMP-1032,Thomas Hall,thomas.hall@acmecorp.com,Finance,Financial Analyst,Office-SanFrancisco,confidential,2020-05-01,10.41.113.214,9,16
+EMP-1033,Christine Peterson,christine.peterson@acmecorp.com,Human Resources,HR Manager,Remote,restricted,2016-03-01,10.68.30.228,7,17
+EMP-1034,Paul Torres,paul.torres@acmecorp.com,Sales,Business Development,Office-SanFrancisco,internal,2020-04-01,10.176.163.219,9,19
+EMP-1035,Steven Miller,steven.miller@acmecorp.com,Legal,Legal Counsel,Remote,top-secret,2021-05-01,10.12.1.86,8,18
+EMP-1036,Charles Patel,charles.patel@acmecorp.com,IT Security,CISO,Office-Berlin,top-secret,2021-09-01,10.3.29.20,8,16
+EMP-1037,Melissa Howard,melissa.howard@acmecorp.com,Executive,VP Sales,Office-SanFrancisco,top-secret,2021-03-01,10.11.79.94,7,18
+EMP-1038,Anthony Mendoza,anthony.mendoza@acmecorp.com,Research & Development,Data Scientist,Remote,classified,2016-06-01,10.200.144.227,10,17
+EMP-1039,Donald Lee,donald.lee@acmecorp.com,Marketing,Content Strategist,Office-Bangalore,internal,2015-03-01,10.189.237.86,10,17
+EMP-1040,Paul Lee,paul.lee@acmecorp.com,Operations,Operations Analyst,Office-Bangalore,internal,2015-08-01,10.57.52.210,10,18
+EMP-1041,Michelle Robinson,michelle.robinson@acmecorp.com,Engineering,Sr. Software Engineer,HQ-NewYork,confidential,2018-07-01,10.85.72.222,7,18
+EMP-1042,Brian Chavez,brian.chavez@acmecorp.com,Finance,Accounts Payable,Office-Bangalore,confidential,2023-06-01,10.241.8.30,9,17
+EMP-1043,Justin King,justin.king@acmecorp.com,Human Resources,HR Specialist,HQ-NewYork,restricted,2021-06-01,10.187.202.81,10,16
+EMP-1044,Deborah Kelly,deborah.kelly@acmecorp.com,Sales,Account Executive,Office-London,internal,2015-12-01,10.112.1.134,8,18
+EMP-1045,Sharon Rodriguez,sharon.rodriguez@acmecorp.com,Legal,Compliance Officer,Office-Berlin,top-secret,2020-11-01,10.218.32.185,9,18
+EMP-1046,Christine Evans,christine.evans@acmecorp.com,IT Security,Security Engineer,Office-Bangalore,top-secret,2019-09-01,10.33.50.108,10,17
+EMP-1047,Brandon Reed,brandon.reed@acmecorp.com,Executive,COO,Office-Bangalore,top-secret,2023-01-01,10.78.74.54,10,18
+EMP-1048,Cynthia Cruz,cynthia.cruz@acmecorp.com,Research & Development,Lab Technician,Remote,classified,2018-09-01,10.122.204.231,8,16
+EMP-1049,Andrew Rogers,andrew.rogers@acmecorp.com,Marketing,Brand Manager,Office-London,internal,2016-04-01,10.173.80.58,8,17
+EMP-1050,Patricia Garcia,patricia.garcia@acmecorp.com,Operations,Project Manager,Office-Bangalore,internal,2016-08-01,10.107.227.162,8,19
+EMP-1051,Amy Phillips,amy.phillips@acmecorp.com,Engineering,Sr. Software Engineer,Office-SanFrancisco,confidential,2015-02-01,10.200.109.57,8,19
+EMP-1052,Michael Bailey,michael.bailey@acmecorp.com,Finance,Sr. Accountant,HQ-NewYork,confidential,2022-03-01,10.206.119.171,9,19
+EMP-1053,Brandon Castillo,brandon.castillo@acmecorp.com,Human Resources,HR Director,Office-Bangalore,restricted,2023-08-01,10.230.41.191,10,19
+EMP-1054,Kimberly Long,kimberly.long@acmecorp.com,Sales,Account Executive,Remote,internal,2019-09-01,10.125.161.62,9,19
+EMP-1055,Elizabeth Alvarez,elizabeth.alvarez@acmecorp.com,Legal,Compliance Officer,Office-SanFrancisco,top-secret,2019-06-01,10.82.229.139,7,17
+EMP-1056,Karen Robinson,karen.robinson@acmecorp.com,IT Security,CISO,Remote,top-secret,2017-12-01,10.55.17.107,10,18
+EMP-1057,Anna Reyes,anna.reyes@acmecorp.com,Executive,VP Engineering,HQ-NewYork,top-secret,2018-07-01,10.100.232.198,7,19
+EMP-1058,Kathleen Smith,kathleen.smith@acmecorp.com,Research & Development,R&D Engineer,Office-London,classified,2021-07-01,10.138.192.189,8,19
+EMP-1059,Mark Wright,mark.wright@acmecorp.com,Marketing,SEO Specialist,Office-Bangalore,internal,2015-07-01,10.87.172.174,10,17
+EMP-1060,Cynthia Taylor,cynthia.taylor@acmecorp.com,Operations,Logistics Coordinator,Office-Berlin,internal,2015-07-01,10.152.145.170,7,16
+EMP-1061,Samuel Diaz,samuel.diaz@acmecorp.com,Engineering,Sr. Software Engineer,Office-Bangalore,confidential,2017-01-01,10.67.98.84,8,19
+EMP-1062,Carol Baker,carol.baker@acmecorp.com,Finance,Controller,Office-London,confidential,2021-05-01,10.214.21.121,7,16
+EMP-1063,Brian Lewis,brian.lewis@acmecorp.com,Human Resources,HR Specialist,Remote,restricted,2015-01-01,10.244.64.52,7,17
+EMP-1064,Donald Taylor,donald.taylor@acmecorp.com,Sales,Sales Director,Remote,internal,2016-10-01,10.243.56.120,9,18
+EMP-1065,Lisa Cox,lisa.cox@acmecorp.com,Legal,Contract Specialist,Remote,top-secret,2016-03-01,10.247.80.28,7,18
+EMP-1066,Pamela Gray,pamela.gray@acmecorp.com,IT Security,CISO,Office-Bangalore,top-secret,2018-02-01,10.152.177.213,8,16
+EMP-1067,Rachel Foster,rachel.foster@acmecorp.com,Executive,COO,Remote,top-secret,2016-10-01,10.201.11.89,10,18
+EMP-1068,David Cook,david.cook@acmecorp.com,Research & Development,R&D Engineer,HQ-NewYork,classified,2021-08-01,10.28.111.246,9,19
+EMP-1069,Alexander Martin,alexander.martin@acmecorp.com,Marketing,SEO Specialist,Office-SanFrancisco,internal,2023-11-01,10.70.158.207,10,19
+EMP-1070,Sharon Sanders,sharon.sanders@acmecorp.com,Operations,Logistics Coordinator,Office-London,internal,2020-04-01,10.213.240.23,9,19
+EMP-1071,Ashley Long,ashley.long@acmecorp.com,Engineering,DevOps Engineer,Office-Berlin,confidential,2021-06-01,10.8.127.218,9,17
+EMP-1072,Gary Ramirez,gary.ramirez@acmecorp.com,Finance,Finance Manager,Office-London,confidential,2020-05-01,10.226.153.180,9,16
+EMP-1073,Eric Harris,eric.harris@acmecorp.com,Human Resources,HR Specialist,Office-SanFrancisco,restricted,2021-08-01,10.143.195.62,10,19
+EMP-1074,Laura Williams,laura.williams@acmecorp.com,Sales,Sales Rep,Office-London,internal,2018-07-01,10.178.63.79,9,19
+EMP-1075,Stephen Ortiz,stephen.ortiz@acmecorp.com,Legal,Compliance Officer,Office-Bangalore,top-secret,2023-06-01,10.91.180.117,9,18
+EMP-1076,Steven Robinson,steven.robinson@acmecorp.com,IT Security,Security Analyst,Remote,top-secret,2018-06-01,10.31.191.138,8,17
+EMP-1077,Margaret Patel,margaret.patel@acmecorp.com,Executive,VP Engineering,Office-London,top-secret,2023-10-01,10.73.252.26,8,18
+EMP-1078,Sandra Campbell,sandra.campbell@acmecorp.com,Research & Development,Data Scientist,Office-London,classified,2015-12-01,10.137.33.71,7,16
+EMP-1079,Stephen Nguyen,stephen.nguyen@acmecorp.com,Marketing,Content Strategist,Remote,internal,2022-02-01,10.224.4.147,9,19
+EMP-1080,Kathleen Cruz,kathleen.cruz@acmecorp.com,Operations,Operations Manager,Office-SanFrancisco,internal,2015-05-01,10.241.221.123,7,16
+EMP-1081,Stephanie Morales,stephanie.morales@acmecorp.com,Engineering,Software Engineer,Office-Berlin,confidential,2015-03-01,10.39.208.145,9,16
+EMP-1082,Ashley Thomas,ashley.thomas@acmecorp.com,Finance,Accounts Payable,Office-Bangalore,confidential,2018-09-01,10.98.116.233,10,18
+EMP-1083,Emma Diaz,emma.diaz@acmecorp.com,Human Resources,HR Manager,Office-Berlin,restricted,2015-10-01,10.246.190.26,8,17
+EMP-1084,Kimberly James,kimberly.james@acmecorp.com,Sales,Sales Rep,Office-SanFrancisco,internal,2018-03-01,10.142.20.41,7,19
+EMP-1085,Laura Ruiz,laura.ruiz@acmecorp.com,Legal,Contract Specialist,Office-Bangalore,top-secret,2019-01-01,10.60.74.181,9,19
+EMP-1086,Elizabeth Mendoza,elizabeth.mendoza@acmecorp.com,IT Security,SOC Analyst,Office-London,top-secret,2018-07-01,10.30.140.58,8,18
+EMP-1087,Christopher Martinez,christopher.martinez@acmecorp.com,Executive,CEO,Office-SanFrancisco,top-secret,2019-10-01,10.192.212.146,9,19
+EMP-1088,Jessica Reyes,jessica.reyes@acmecorp.com,Research & Development,R&D Engineer,Remote,classified,2021-05-01,10.129.139.127,10,16
+EMP-1089,Scott Garcia,scott.garcia@acmecorp.com,Marketing,SEO Specialist,Remote,internal,2020-10-01,10.65.7.24,8,16
+EMP-1090,Maria Gray,maria.gray@acmecorp.com,Operations,Operations Manager,Office-Berlin,internal,2015-03-01,10.121.133.167,10,18
+EMP-1091,Nancy Howard,nancy.howard@acmecorp.com,Engineering,DevOps Engineer,Remote,confidential,2022-02-01,10.121.90.105,9,18
+EMP-1092,Christine Wilson,christine.wilson@acmecorp.com,Finance,Sr. Accountant,Office-London,confidential,2021-12-01,10.127.74.170,10,16
+EMP-1093,Ryan Lopez,ryan.lopez@acmecorp.com,Human Resources,HR Manager,Office-London,restricted,2020-02-01,10.249.198.104,7,19
+EMP-1094,Edward Miller,edward.miller@acmecorp.com,Sales,Account Executive,Office-Berlin,internal,2020-10-01,10.194.128.161,10,16
+EMP-1095,Anthony Wright,anthony.wright@acmecorp.com,Legal,Contract Specialist,Office-SanFrancisco,top-secret,2019-08-01,10.226.179.125,7,16
+EMP-1096,Benjamin Cox,benjamin.cox@acmecorp.com,IT Security,SOC Analyst,Remote,top-secret,2017-05-01,10.142.4.142,10,16
+EMP-1097,Mark Anderson,mark.anderson@acmecorp.com,Executive,VP Engineering,HQ-NewYork,top-secret,2017-08-01,10.239.184.75,9,19
+EMP-1098,Kathleen Stewart,kathleen.stewart@acmecorp.com,Research & Development,Data Scientist,Office-Bangalore,classified,2023-03-01,10.99.49.236,8,16
+EMP-1099,Emily Foster,emily.foster@acmecorp.com,Marketing,SEO Specialist,Office-London,internal,2023-05-01,10.211.1.73,9,19
+EMP-1100,Karen Edwards,karen.edwards@acmecorp.com,Operations,Logistics Coordinator,Office-Bangalore,internal,2020-06-01,10.142.196.140,10,19
